@@ -1,6 +1,8 @@
 # js-fighting-game
 This is a fun fighting game for all users who wish play it.
 To acces this fun game you can use the link on my Github Pages or  you can  download the zip file and copy the cod into an editor
+
+
 What I used to buid this game:
 
 HTML 
