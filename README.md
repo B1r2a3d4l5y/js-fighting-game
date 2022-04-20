@@ -35,14 +35,24 @@ JavaScript
 In my Javascript files  I used
 
 . objects
+
 . switch statements
+
+
 .annomous functions
+
 .if..else statements
+
 .Math.floor(Math.ranom)
+
 .innerHTML
+
 .constructor function
+
 .alert()
+
 .else..if statements
+
 this.
 
 
