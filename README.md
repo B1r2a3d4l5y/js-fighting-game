@@ -9,6 +9,7 @@ I also  used anchor tags to create links to the spefic charcters in the game.
 
 CSS
 I styled my HTML document using css styles like
+
 . background-color
 .text-algin
 . margin
@@ -31,6 +32,7 @@ flex-direction
 
 JavaScript
 In my Javascript files  I used
+
 . objects
 . switch statements
 .annomous functions
